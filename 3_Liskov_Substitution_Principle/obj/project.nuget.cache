@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMixY+uSdDk4kwsQZsFz6WCugknebp/Jf6jLjY1opBipmmr861mzuNu3NscQ5v73Cwh72bTC+JWtuix/Ydxrgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adeildo.pereira\\Documents\\solid-at-dio\\3_Liskov_Substitution_Principle\\3_Liskov_Substitution_Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adeildo.pereira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

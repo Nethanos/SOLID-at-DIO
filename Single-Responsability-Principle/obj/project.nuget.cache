@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGob7YFcIU3aez0KDG2TM0yY5ZT6lRbVqBsEEDchJGLawIRD//r0OtWjzci7EwDbXzibeDdqp/IG8l2x9cgY1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adeildo.pereira\\Documents\\solid-at-dio\\Single-Responsability-Principle\\1_Single-Responsability-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adeildo.pereira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZNatuaPJZp2C8t9KJTM0n5XVDbuHgooCcS0QKU+kCcjJ3+tSG75IxndNKzbcOWEU4IKwAbLkD7+7B3o6p3AaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adeildo.pereira\\Documents\\solid-at-dio\\Open-Closed-Principle\\2_Open-Closed-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adeildo.pereira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

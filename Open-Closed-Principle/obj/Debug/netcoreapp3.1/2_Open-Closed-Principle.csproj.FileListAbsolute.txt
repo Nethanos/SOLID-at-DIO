@@ -1,0 +1,15 @@
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.exe
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.deps.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.runtimeconfig.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.runtimeconfig.dev.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\2_Open-Closed-Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.csprojAssemblyReference.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.AssemblyInfoInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.AssemblyInfo.cs
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.csproj.CoreCompileInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.csproj.CopyComplete
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Open-Closed-Principle\obj\Debug\netcoreapp3.1\2_Open-Closed-Principle.genruntimeconfig.cache

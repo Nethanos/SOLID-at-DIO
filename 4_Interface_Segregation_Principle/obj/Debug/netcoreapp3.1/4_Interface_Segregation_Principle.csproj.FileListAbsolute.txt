@@ -1,0 +1,15 @@
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.csprojAssemblyReference.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.AssemblyInfoInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.AssemblyInfo.cs
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.csproj.CoreCompileInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.exe
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.deps.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.runtimeconfig.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.runtimeconfig.dev.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.csproj.CopyComplete
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\4_Interface_Segregation_Principle\obj\Debug\netcoreapp3.1\4_Interface_Segregation_Principle.genruntimeconfig.cache

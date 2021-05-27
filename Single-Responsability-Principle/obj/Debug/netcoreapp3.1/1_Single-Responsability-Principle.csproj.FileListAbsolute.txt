@@ -1,0 +1,15 @@
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.csprojAssemblyReference.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.AssemblyInfoInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.AssemblyInfo.cs
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.csproj.CoreCompileInputs.cache
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.exe
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.deps.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.runtimeconfig.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.runtimeconfig.dev.json
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\1_Single-Responsability-Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.csproj.CopyComplete
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.dll
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.pdb
+C:\Users\adeildo.pereira\Documents\solid-at-dio\Single-Responsability-Principle\obj\Debug\netcoreapp3.1\1_Single-Responsability-Principle.genruntimeconfig.cache
